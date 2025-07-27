@@ -1,8 +1,8 @@
-import { Header } from "./components/Header";
-import { Hero } from "./components/Hero";
+import { Header } from "../components/Header";
+import { Hero } from "../components/Hero";
 import { About } from "./components/About";
 import { Pillars } from "./components/Pillars";
-import { ProjectShowcase } from "./components/ProjectShowcase";
+import { ProjectShowcase } from "../components/ProjectShowcase";
 import { Journal } from "./components/Journal";
 import { Opportunities } from "./components/Opportunities";
 import { Footer } from "./components/Footer";
